@@ -8,7 +8,7 @@ PhD (Computer Science), Monash University, 2008
 
 ### Packages
 - [Bayesreg](): Bayesian regularised regression with shrinkage priors for R and MATLAB
-  -- [Precompiled MEX files for MATLAB Bayesreg available here]
+-- [Precompiled MEX files for MATLAB Bayesreg available here]
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling for R
 - Fastridge
 - Preval
