@@ -1,4 +1,5 @@
 # Associate Professor (Statistics/Machine Learning)
+Bayesian Inference, Time Series, Information Theory
 
 ### Education
 Bachelor of Digital Systems (Hons), Monash University, 2002
