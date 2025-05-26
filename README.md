@@ -1,1 +1,7 @@
-# dfschmidt80.github-io
+# Data scientist
+
+### Education
+Monash University, PhD
+
+### Work experience
+Etc etc
