@@ -3,6 +3,7 @@ Bayesian Inference, Time Series, Information Theory
 
 ### Education
 Bachelor of Digital Systems (Hons), Monash University, 2002
+
 PhD (Computer Science), Monash University, 2008
 - Thesis: Minimum Message Length Inference of Autoregressive Moving Average Models
 
