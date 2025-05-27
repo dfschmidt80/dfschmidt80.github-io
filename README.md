@@ -23,10 +23,10 @@ Bayesian Inference, Time Series, Information Theory
 - [Bayes beats Cross Validation: Efficient and Accurate Ridge Regression via Expectation Maximization](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf), S.Y.Tew, M.Boley and D.F.Schmidt, NeuRIPS 2023
 
 ### Recent Presentations
-- [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/aalto2025.pdf), Aalto University, Finland, May 21st 2025
-- [Bayesian exponential smoothing]
-- [Log-scale shrinkage priors]
-- [Preval]
-- [Minirocket]
+- [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/hsem2025.pdf), Aalto University (May 2025)
+- [Bayesian Exponential Smoothing with the Local-Seasonal-Global Trend Model](/assets/talks/lsgt2024.pdf), Google and Meta Platforms (June 2024)
+- [Log-Scale Shrinkage Priors for Global-Local Shrinkage](/assets/talks/logscale2024.pdf), Virginia Tech (June 2024)
+- [Prevalidated ridge regression is a highly-efficient drop-in replacement for logistic regression for high-dimensional data](/assets/talks/preval2024.pdf), University of Haute Alsace (March 2024)/National Technical University of Athens (March 2024)/University of Granada (May 2024)
+- [Fast and Effective Time Series Classification](/assets/talks/MiniROCKET2024.pdf), University of Helsinki (February 2024)
 
 ### Full Publication List
