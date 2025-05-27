@@ -3,13 +3,10 @@ Bayesian Inference, Time Series, Information Theory
 
 ### Education
 Bachelor of Digital Systems (Hons), Monash University, 2002
-
-PhD (Computer Science), Monash University, 2008
-- Thesis: Minimum Message Length Inference of Autoregressive Moving Average Models
+PhD (Computer Science), Monash University, 2008 [[Thesis: Minimum Message Length Inference of Autoregressive Moving Average Models]](https://github.com/dfschmidt80/pgdraw)
 
 ### Packages
-- [Bayesreg](https://github.com/dfschmidt80/pgdraw): Bayesian regularised regression with shrinkage priors for R and MATLAB
-   - [Precompiled MEX files for MATLAB Bayesreg available here]
+- [Bayesreg](https://github.com/dfschmidt80/pgdraw): Bayesian regularised regression with shrinkage priors for R and MATLAB [Precompiled MEX files for MATLAB Bayesreg available here]
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling for R
 - Fastridge
 - Preval
