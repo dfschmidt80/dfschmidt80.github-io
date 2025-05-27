@@ -9,13 +9,14 @@ Bayesian Inference, Time Series, Information Theory
 ### Packages
 - [Bayesreg](https://github.com/dfschmidt80/pgdraw): Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling))
   - Precompiled MEX files for MATLAB Bayesreg available: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
+- [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling (R)
 - [Quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python)
 - [Fastridge](https://github.com/marioboley/fastridge): fast Bayes ridge regression via EM (Python)
 - [Preval](https://github.com/angus924/preval): very fast approximate multinomial logistic regression (Python)
 - [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python)
 - [HYDRA](https://github.com/angus924/hydra): dictionary-type time series classification via competing convolutions (Python)
-- randcorr: fast generation of random correlation matrices (R)
+- [randcorr](https://cran.r-project.org/web/packages/randcorr/index.html): fast generation of random correlation matrices (R)
 
 ### Select Recent Publications/Preprints
 - [Fast Gibbs sampling for the local-seasonal-global trend Bayesian exponential smoothing model](https://link.springer.com/article/10.1007/s11222-025-10603-z), X. Long et al, *Statistics and Computing*, Vol. 35, No. 77, 2025
