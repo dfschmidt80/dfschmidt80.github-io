@@ -7,8 +7,7 @@ Bayesian Inference, Time Series, Information Theory
   - Thesis: Minimum Message Length Inference of Autoregressive Moving Average Models
 
 ### Packages
-- Bayesreg: Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling))
-  - Precompiled MEX files for MATLAB Bayesreg available: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
+- Bayesreg: Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
 - [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling (R)
 - [Quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python)
