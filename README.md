@@ -10,7 +10,7 @@ Bayesian Inference, Time Series, Information Theory
 - Bayesreg: Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
 - [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling (R)
-- [Quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python)
+- [Quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python) [(paper)](https://link.springer.com/article/10.1007/s10618-024-01036-9)
 - [Fastridge](https://github.com/marioboley/fastridge): fast Bayes ridge regression via EM (Python)
 - [Preval](https://github.com/angus924/preval): very fast approximate multinomial logistic regression (Python)
 - [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python)
