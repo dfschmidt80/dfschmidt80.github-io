@@ -4,10 +4,10 @@ Bayesian Inference, Time Series, Information Theory
 ### Education
 - Bachelor of Digital Systems (Hons), Monash University, 2002
 - PhD (Computer Science), Monash University, 2008
-  - [[Thesis: Minimum Message Length Inference of Autoregressive Moving Average Models]](https://github.com/dfschmidt80/pgdraw)
+  - Thesis: Minimum Message Length Inference of Autoregressive Moving Average Models
 
 ### Packages
-- [Bayesreg](https://github.com/dfschmidt80/pgdraw): Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling))
+- [Bayesreg]: Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling))
   - Precompiled MEX files for MATLAB Bayesreg available: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
 - [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling (R)
@@ -27,11 +27,11 @@ Bayesian Inference, Time Series, Information Theory
 - [Prevalidated ridge regression is a highly-efficient drop-in replacement for logistic regression for high-dimensional data](https://arxiv.org/pdf/2401.15610), A.Dempster, G.I.Webb and D.F.Schmidt, arXiv:2401.15610
 - [Bayes beats Cross Validation: Efficient and Accurate Ridge Regression via Expectation Maximization](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf), S.Y.Tew, M.Boley and D.F.Schmidt, NeuRIPS 2023
 
+Full publication list at [Google Scholar](https://scholar.google.com.au/citations?user=z2YfSogAAAAJ&hl=en)
+
 ### Recent Presentations
 - [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/hsem2025.pdf), Aalto University (May 2025)
 - [Bayesian Exponential Smoothing with the Local-Seasonal-Global Trend Model](/assets/talks/lsgt2024.pdf), Google and Meta Platforms (June 2024)
 - [Log-Scale Shrinkage Priors for Global-Local Shrinkage](/assets/talks/logscale2024.pdf), Virginia Tech (June 2024)
 - [Prevalidated ridge regression is a highly-efficient drop-in replacement for logistic regression for high-dimensional data](/assets/talks/preval2024.pdf), University of Haute Alsace (March 2024)/National Technical University of Athens (March 2024)/University of Granada (May 2024)
 - [Fast and Effective Time Series Classification](/assets/talks/MiniROCKET2024.pdf), University of Helsinki (February 2024)
-
-### Full Publication List
