@@ -8,7 +8,7 @@ Bayesian Inference, Time Series, Information Theory
 
 ### Packages
 - [Bayesreg](https://github.com/dfschmidt80/pgdraw): Bayesian regularised regression with shrinkage priors for R and MATLAB
-  - [Precompiled MEX files for MATLAB Bayesreg available here]
+  - Precompiled MEX files for MATLAB Bayesreg available: [Windows], [Linux], [Mac]
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling for R
 - Fastridge
 - Preval
