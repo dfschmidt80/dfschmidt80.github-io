@@ -17,6 +17,10 @@ Bayesian Inference, Time Series, Information Theory
 - [Fast Gibbs sampling for the local-seasonal-global trend Bayesian exponential smoothing model](https://link.springer.com/article/10.1007/s11222-025-10603-z), X. Long et al, *Statistics and Computing*, Vol. 35, No. 77, 2025
 - [MONSTER: Monash Scalable Time Series Evaluation Repository](https://arxiv.org/pdf/2502.15122?), A. Dempster et al, arXiv:2502.15122
 - [Local and global trend Bayesian exponential smoothing models](https://www.sciencedirect.com/science/article/pii/S0169207024000311), S. Smyl et al., *International Journal of Forecasting*, Vol. 41, No. 1, pp. 111-127, 2025
+- [Scalable probabilistic forecasting in retail with gradient boosted trees: A practitioner’s approach](https://www.sciencedirect.com/science/article/pii/S0925527324003062), X. Long et al., *International Journal of Production Economics*, Vol. 279, 2025
+- [quant: a minimalist interval method for time series classification](https://link.springer.com/article/10.1007/s10618-024-01036-9), *Data Mining and Knowledge Discovery*, A. Dempster, D.F.Schmidt and G.I. Webb, Vol. 38, pp. 2377–2402, 2024
+- [Prevalidated ridge regression is a highly-efficient drop-in replacement for logistic regression for high-dimensional data](https://arxiv.org/pdf/2401.15610), A.Dempster, G.I.Webb and D.F.Schmidt, arXiv:2401.15610
+- [Bayes beats Cross Validation: Efficient and Accurate Ridge Regression via Expectation Maximization](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf), S.Y.Tew, M.Boley and D.F.Schmidt, NeuRIPS 2023
 
 ### Recent Presentations
 - [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/aalto2025.pdf), Aalto University, Finland, May 21st 2025
