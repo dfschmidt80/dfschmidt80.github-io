@@ -7,12 +7,13 @@ Bayesian Inference, Time Series, Information Theory
   - *Minimum Message Length Inference of Autoregressive Moving Average Models*
 
 ### Packages
+#### Statistics
 - Bayesreg: Bayesian regularised regression with shrinkage priors ([R package](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)) ([paper](https://arxiv.org/abs/1611.06649)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
 - [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications ([R package](https://cran.r-project.org/web/packages/Rlgt/index.html)) ([paper 1](https://www.sciencedirect.com/science/article/pii/S0169207024000311), [paper 2](https://link.springer.com/article/10.1007/s11222-025-10603-z))
-- [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling ([R package](https://cran.r-project.org/web/packages/pgdraw/index.html))
-- [Quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python) ([paper](https://link.springer.com/article/10.1007/s10618-024-01036-9))
-- [Fastridge](https://github.com/marioboley/fastridge): fast Bayes ridge regression via EM (Python) ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf))
-- [Preval](https://github.com/angus924/preval): very fast approximate multinomial logistic regression (Python) ([paper](https://arxiv.org/pdf/2401.15610))
+- [pgdraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling ([R package](https://cran.r-project.org/web/packages/pgdraw/index.html))
+- [quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python) ([paper](https://link.springer.com/article/10.1007/s10618-024-01036-9))
+- [fastridge](https://github.com/marioboley/fastridge): fast Bayes ridge regression via EM (Python) ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf))
+- [preval](https://github.com/angus924/preval): very fast approximate multinomial logistic regression (Python) ([paper](https://arxiv.org/pdf/2401.15610))
 - [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python)
 - [HYDRA](https://github.com/angus924/hydra): dictionary-type time series classification via competing convolutions (Python)
 - [randcorr](https://github.com/dfschmidt80/randcorr): fast generation of random correlation matrices ([R package](https://cran.r-project.org/web/packages/randcorr/index.html)) ([paper](https://www.tandfonline.com/doi/abs/10.1080/03610918.2019.1700277))
