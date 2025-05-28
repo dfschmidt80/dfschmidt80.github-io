@@ -17,7 +17,7 @@ Bayesian Inference, Time Series, Information Theory
 #### Forecasting/Time Series Analysis
 - [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications ([R package](https://cran.r-project.org/web/packages/Rlgt/index.html)) ([paper 1](https://www.sciencedirect.com/science/article/pii/S0169207024000311), [paper 2](https://link.springer.com/article/10.1007/s11222-025-10603-z))
 - [setartree](https://github.com/rakshitha123/SETAR_Trees): Threshold autoregressive trees for forecasting ([R package](https://cran.r-project.org/web/packages/setartree/index.html) ([paper](https://link.springer.com/article/10.1007/s10994-023-06316-x))
-- [fastAR](https://github.com/dfschmidt80/fastAR): Extremely fast exact maximum likelihood estimation of (even high order, i.e., $p>50$) autoregressive models (MATLAB)
+- [fastAR](https://github.com/dfschmidt80/fastAR): Extremely fast exact maximum likelihood estimation of (even high order, i.e., p>50) autoregressive models (MATLAB)
 
 #### Time Series Classification
 - [quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python) ([paper](https://link.springer.com/article/10.1007/s10618-024-01036-9))
