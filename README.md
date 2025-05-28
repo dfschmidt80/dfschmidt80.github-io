@@ -8,7 +8,7 @@ Bayesian Inference, Time Series, Information Theory
 
 ### Packages
 - Bayesreg: Bayesian regularised regression with shrinkage priors ([R](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
-- [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications ([R package](https://cran.r-project.org/web/packages/Rlgt/index.html)) ([paper 1](https://www.sciencedirect.com/science/article/pii/S0169207024000311) [paper 2](https://link.springer.com/article/10.1007/s11222-025-10603-z))
+- [Rlgt](https://cran.r-project.org/web/packages/Rlgt/index.html): Bayesian exponential smoothing models with trend modifications ([R package](https://cran.r-project.org/web/packages/Rlgt/index.html)) ([paper 1](https://www.sciencedirect.com/science/article/pii/S0169207024000311), [paper 2](https://link.springer.com/article/10.1007/s11222-025-10603-z))
 - [PGDraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling (R)
 - [Quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python) [(paper)](https://link.springer.com/article/10.1007/s10618-024-01036-9)
 - [Fastridge](https://github.com/marioboley/fastridge): fast Bayes ridge regression via EM (Python)
