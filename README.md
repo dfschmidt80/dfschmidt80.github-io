@@ -15,7 +15,7 @@ Bayesian Inference, Time Series, Information Theory
 - [Preval](https://github.com/angus924/preval): very fast approximate multinomial logistic regression (Python) ([paper](https://arxiv.org/pdf/2401.15610))
 - [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python)
 - [HYDRA](https://github.com/angus924/hydra): dictionary-type time series classification via competing convolutions (Python)
-- [randcorr](https://github.com/dfschmidt80/randcorr): fast generation of random correlation matrices ([R package](https://cran.r-project.org/web/packages/randcorr/index.html))
+- [randcorr](https://github.com/dfschmidt80/randcorr): fast generation of random correlation matrices ([R package](https://cran.r-project.org/web/packages/randcorr/index.html)) ([paper](https://www.tandfonline.com/doi/abs/10.1080/03610918.2019.1700277))
 
 ### Select Recent Publications/Preprints
 - [Fast Gibbs sampling for the local-seasonal-global trend Bayesian exponential smoothing model](https://link.springer.com/article/10.1007/s11222-025-10603-z), X. Long et al, *Statistics and Computing*, Vol. 35, No. 77, 2025
