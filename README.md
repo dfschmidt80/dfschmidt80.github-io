@@ -8,7 +8,7 @@ Bayesian Inference, Time Series, Information Theory
 
 ### Packages
 #### Statistics/Regression
-- bayesreg: Bayesian regularised regression with shrinkage priors ([R package](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)) ([paper](https://arxiv.org/abs/1611.06649)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
+- bayesreg: Bayesian regularised regression with shrinkage priors ([R package](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)) ([paper 1](https://arxiv.org/abs/1611.06649), [paper 2](https://ieeexplore.ieee.org/abstract/document/7337406/)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
 - [pgdraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling ([R package](https://cran.r-project.org/web/packages/pgdraw/index.html))
 - [fastridge](https://github.com/marioboley/fastridge): fast Bayes ridge regression via EM (Python) ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf))
 - [preval](https://github.com/angus924/preval): very fast approximate multinomial logistic regression (Python) ([paper](https://arxiv.org/pdf/2401.15610))
