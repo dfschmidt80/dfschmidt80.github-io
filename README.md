@@ -21,8 +21,8 @@ Bayesian Inference, Time Series, Information Theory
 
 #### Time Series Classification
 - [quant](https://github.com/angus924/quant): a minimalist interval method for time series classification (Python) ([paper](https://link.springer.com/article/10.1007/s10618-024-01036-9))
-- [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python)
-- [HYDRA](https://github.com/angus924/hydra): dictionary-type time series classification via competing convolutions (Python)
+- [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python) ([paper](https://arxiv.org/pdf/2012.08791))
+- [HYDRA](https://github.com/angus924/hydra): dictionary-type time series classification via competing convolutions (Python) ([paper](https://arxiv.org/pdf/2203.13652))
 
 ### Select Recent Publications/Preprints
 - [Fast Gibbs sampling for the local-seasonal-global trend Bayesian exponential smoothing model](https://link.springer.com/article/10.1007/s11222-025-10603-z), X. Long et al, *Statistics and Computing*, Vol. 35, No. 77, 2025
