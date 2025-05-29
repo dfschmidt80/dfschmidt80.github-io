@@ -1,12 +1,12 @@
 # Associate Professor (Statistics/Machine Learning)
 Bayesian Inference, Time Series, Information Theory
 
-### Education
+## Education
 - Bachelor of Digital Systems (Hons), Monash University, 2002
 - PhD (Computer Science), Monash University, 2008
   - *Minimum Message Length Inference of Autoregressive Moving Average Models*
 
-### Packages
+## Packages
 #### Statistics/Regression
 - bayesreg: Bayesian regularised regression with shrinkage priors ([R package](https://cran.r-project.org/web/packages/bayesreg/index.html) and [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/60823-flexible-bayesian-penalized-regression-modelling)) ([paper 1](https://arxiv.org/abs/1611.06649), [paper 2](https://ieeexplore.ieee.org/abstract/document/7337406/)); MEX files for MATLAB: [[Windows]](/assets/mex/pgdraw.mexw64), [[Linux]](/assets/mex/pgdraw.mexa64), [[Mac]](assets/mex/pgdraw.mexmaci64)
 - [pgdraw](https://github.com/dfschmidt80/pgdraw): Polya-gamma sampling ([R package](https://cran.r-project.org/web/packages/pgdraw/index.html))
