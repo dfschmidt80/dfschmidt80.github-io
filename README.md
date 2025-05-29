@@ -24,7 +24,7 @@ Bayesian Inference, Time Series, Information Theory
 - [MiniROCKET](https://github.com/angus924/minirocket): extremely fast time series classification via convolutional kernels (Python) ([paper](https://arxiv.org/pdf/2012.08791))
 - [HYDRA](https://github.com/angus924/hydra): dictionary-type time series classification via competing convolutions (Python) ([paper](https://arxiv.org/pdf/2203.13652))
 
-### Select Recent Publications/Preprints
+## Select Recent Publications/Preprints
 - [Fast Gibbs sampling for the local-seasonal-global trend Bayesian exponential smoothing model](https://link.springer.com/article/10.1007/s11222-025-10603-z), X. Long et al, *Statistics and Computing*, Vol. 35, No. 77, 2025
 - [MONSTER: Monash Scalable Time Series Evaluation Repository](https://arxiv.org/pdf/2502.15122?), A. Dempster et al, arXiv:2502.15122
 - [Local and global trend Bayesian exponential smoothing models](https://www.sciencedirect.com/science/article/pii/S0169207024000311), S. Smyl et al., *International Journal of Forecasting*, Vol. 41, No. 1, pp. 111-127, 2025
@@ -35,7 +35,7 @@ Bayesian Inference, Time Series, Information Theory
 
 Full publication list at [Google Scholar](https://scholar.google.com.au/citations?user=z2YfSogAAAAJ&hl=en)
 
-### Recent Presentations
+## Recent Presentations
 - [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/hsem2025.pdf), Aalto University (May 2025)
 - [Bayesian Exponential Smoothing with the Local-Seasonal-Global Trend Model](/assets/talks/lsgt2024.pdf), Google and Meta Platforms (June 2024)
 - [Log-Scale Shrinkage Priors for Global-Local Shrinkage](/assets/talks/logscale2024.pdf), Virginia Tech (June 2024)
