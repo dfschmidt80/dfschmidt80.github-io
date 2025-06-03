@@ -36,8 +36,9 @@ Bayesian Inference, Time Series, Information Theory
 Full publication list at [Google Scholar](https://scholar.google.com.au/citations?user=z2YfSogAAAAJ&hl=en)
 
 ## Recent Presentations
+- [Foundational Models for Forecasting: Some Fundamental Limitations](/assets/talks/FCAI2025.pdf), Finnish Centre for Artificial Intelligence, Aalto University, 2025
 - [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/hsem2025.pdf), Aalto University (May 2025)
 - [Bayesian Exponential Smoothing with the Local-Seasonal-Global Trend Model](/assets/talks/lsgt2024.pdf), Google and Meta Platforms (June 2024)
 - [Log-Scale Shrinkage Priors for Global-Local Shrinkage](/assets/talks/logscale2024.pdf), Virginia Tech (June 2024)
 - [Prevalidated ridge regression is a highly-efficient drop-in replacement for logistic regression for high-dimensional data](/assets/talks/preval2024.pdf), University of Haute Alsace (March 2024)/National Technical University of Athens (March 2024)/University of Granada (May 2024)
-- [Fast and Effective Time Series Classification](/assets/talks/MiniROCKET2024.pdf), University of Helsinki (February 2024)
+- [Fast and Effective Time Series Classification](/assets/talks/MiniROCKET2024.pdf), Finnish Centre for Artificial Intelligence, University of Helsinki (February 2024)
