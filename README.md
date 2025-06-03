@@ -36,7 +36,7 @@ Bayesian Inference, Time Series, Information Theory
 Full publication list at [Google Scholar](https://scholar.google.com.au/citations?user=z2YfSogAAAAJ&hl=en)
 
 ## Recent Presentations
-- [Foundational Models for Forecasting: Some Fundamental Limitations](/assets/talks/FCAI2025.pdf), Finnish Centre for Artificial Intelligence, Aalto University, 2025
+- [Foundational Models for Forecasting: Some Fundamental Limitations](/assets/talks/FCAI2025.pdf), Finnish Centre for Artificial Intelligence, Aalto University, 2025 (modified version of [NeuRIPS2024 talk](https://cbergmeir.com/talks/neurips2024/) given by Christoph Bergmeir)
 - [Sparse Horseshoe Estimation via Expectation Maximization](/assets/talks/hsem2025.pdf), Aalto University (May 2025)
 - [Bayesian Exponential Smoothing with the Local-Seasonal-Global Trend Model](/assets/talks/lsgt2024.pdf), Google and Meta Platforms (June 2024)
 - [Log-Scale Shrinkage Priors for Global-Local Shrinkage](/assets/talks/logscale2024.pdf), Virginia Tech (June 2024)
